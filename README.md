@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/hangpy-banner.png" alt="HangPy Banner">
+</p>
+
 # 🎮 HangPy
 
 > A modern Hangman game built with Python.
