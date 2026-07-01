@@ -29,6 +29,25 @@ HangPy is an interactive Hangman game developed in Python with a focus on clean 
 
 ---
 
+## 📁 Project Structure
+
+```text
+hangpy/
+├── assets/
+│   └── screenshots/
+│       ├── home-screen.png
+│       ├── difficulty-menu.png
+│       ├── gameplay.png
+│       ├── victory.png
+│       └── game-over.png
+├── jogo_forca.py
+├── requirements.txt
+├── LICENSE
+└── README.md
+```
+
+---
+
 ## ▶️ Running locally
 
 Install the dependency:
