@@ -47,7 +47,33 @@ python jogo_forca.py
 
 ## 📸 Preview
 
-Gameplay screenshots and GIFs will be available soon.
+### 🏠 Home Screen
+
+![Home Screen](assets/screenshots/home-screen.png)
+
+---
+
+### 🎯 Difficulty Menu
+
+![Difficulty Menu](assets/screenshots/difficulty-menu.png)
+
+---
+
+### 🎮 Gameplay
+
+![Gameplay](assets/screenshots/gameplay.png)
+
+---
+
+### 🏆 Victory
+
+![Victory](assets/screenshots/victory.png)
+
+---
+
+### 💀 Game Over
+
+![Game Over](assets/screenshots/game-over.png)
 
 ---
 
