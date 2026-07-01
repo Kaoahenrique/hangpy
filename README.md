@@ -4,7 +4,7 @@
 
 # 🎮 HangPy
 
-> A modern Hangman game built with Python.
+> A terminal-based Hangman game developed in Python, focused on clean code, modular programming and an interactive user experience.
 
 HangPy is an interactive Hangman game developed in Python with a focus on clean code, modular programming and an enjoyable terminal experience.
 
